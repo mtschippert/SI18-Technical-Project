@@ -1,0 +1,74 @@
+html{
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+.container{
+	margin:auto;
+	width:1200px;
+	max-width:1200px;
+	text-align:center;
+}
+
+.titlecontainer{
+	
+}
+
+.boxes{
+		margin:auto;
+		width:1200px;
+		max-width:1200px;
+}
+
+#about{
+		min-height:300px;
+		max-height:300px;
+		min-width:600px;
+		max-width:600px;
+		float:left;
+}
+
+#skills{
+		min-height:300px;
+		max-height:300px;
+		min-width:600px;
+		max-width:600px;
+		float:left;
+}
+
+#contactinfo{
+	min-height:300px;
+	max-height:300px;
+	min-width:600px;
+	max-width:600px;
+	float:right;
+}
+
+#portfolio{
+		min-height:300px;
+		max-height:300px;
+		min-width:600px;
+		max-width:600px;
+		float:right;
+}
+
+#start{
+		position:relative;
+		clear:both;
+		float:center;
+		font-size: xx-large;
+}
+
+p{
+	opacity:0.2;
+}
+p:hover{
+	opacity:.8;
+}
+
+.left{
+	text-align:left;
+}
+
+.right{
+	text-align:right;
+}
